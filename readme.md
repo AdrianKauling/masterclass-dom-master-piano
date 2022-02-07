@@ -1,5 +1,5 @@
 ## Projeto feito com o video:
-     https://www.youtube.com/watch?v=UftSB4DaRU4)
+     https://www.youtube.com/watch?v=UftSB4DaRU4
 
 
 ### Link do resultado
